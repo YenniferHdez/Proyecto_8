@@ -1,5 +1,4 @@
-# proyecto_8
-Cita famosa de Rajoy / Rajoy quote
+# Proyecto 8.- Cita famosa de Rajoy / Rajoy quote
 
 Este programa genera una cita aleatoria de Mariano Rajoy, expresidente de España, dentro de un recuadro. Para obtener otra cita aleatoria solo hay que presionar el boton con la cara de Rajoy. 
 
